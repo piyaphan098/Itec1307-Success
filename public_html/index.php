@@ -28,8 +28,8 @@
             </button>
             <div class="menu-dropdown">                               
               <ul class="nav-menu">
-                <li><a href="/about.html">About</a></li>
-                <li><a href="/shop.html">Shop</a></li>
+                <li><a href="/index.php">payment</a></li>
+                <li><a href="/shop.php">Shop</a></li>
                 <li><a href="/menu.html">Menu</a></li>
                <li><a href="/brew.html">Brew</a></li>
     </ul>
@@ -70,7 +70,7 @@
     
     <script type="text/javascript" src="listing4.js"></script>
     
-      
+
 </body>
 
 </html>
