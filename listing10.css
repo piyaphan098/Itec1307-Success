@@ -1,0 +1,31 @@
+@media (min-width: 35em) {
+    .menu-toggle {
+      display: none;                 
+    }
+  
+    .menu-dropdown {
+      display: block;                
+      position: static;              
+    }
+  }
+  
+  @media (min-width: 35em) {
+    .nav-menu {
+      display: flex;                 
+      border: 0;
+      padding: 0 1em;
+    }
+  
+    .nav-menu > li {
+      flex: 1;                       
+    }
+    .nav-menu > li + li {
+      border: 0;
+    }
+  
+    .nav-menu > li > a {
+      padding: 0.3em;
+      text-align: center;
+    }
+  }
+  

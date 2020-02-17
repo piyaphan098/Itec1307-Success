@@ -1,0 +1,16 @@
+.title {                        
+    
+  }
+  
+  @media (min-width: 35em) {      
+    .title {
+      
+    }
+  }
+  
+  @media (min-width: 50em) {      
+    .title {
+      
+    }
+  }
+  

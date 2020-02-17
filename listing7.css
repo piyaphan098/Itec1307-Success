@@ -1,0 +1,13 @@
+.title > h1 {
+    color: #333;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    margin: .2em 0;
+  }
+  
+  @media (min-width: 35em) {         
+    .title > h1 {
+      font-size: 2.25rem;            
+    }
+  }
+  

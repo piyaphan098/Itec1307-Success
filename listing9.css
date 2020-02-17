@@ -1,0 +1,37 @@
+.page-header {
+    padding: 0.4em 1em;
+    background-color: #fff;
+  }
+  
+  @media (min-width: 35em) {
+    .page-header {
+      padding: 1em;                        
+    }
+  }
+  
+  .hero {
+    padding: 2em 1em;
+    text-align: center;
+    background-image: url(coffee-beans.jpg);
+    background-size: 100%;
+    color: #fff;
+    text-shadow: 0.1em 0.1em 0.3em #000;
+  }
+  
+  @media (min-width: 35em) {
+    .hero {
+      padding: 5em 3em;                    
+      font-size: 1.2rem;
+    }
+  }
+  
+  main {
+    padding: 1em;
+  }
+  
+  @media (min-width: 35em) {
+    main {
+      padding: 2em 1em;                    
+    }
+  }
+  
